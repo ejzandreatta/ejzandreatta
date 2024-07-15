@@ -1,9 +1,9 @@
 # Hello, my name is Jheffo, and welcome to my GitHub 😊
 
 <div align="">
-  <a href="https://github.com/ejandreatta">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=ejandreatta&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejandreatta&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/ejzandreatta">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=ejzandreatta&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejzandreatta&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -29,4 +29,4 @@
 
 ###
 
- ![Snake animation](https://github.com/ejandreatta/ejandreatta/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/ejzandreatta/ejzandreatta/blob/output/github-contribution-grid-snake.svg)
