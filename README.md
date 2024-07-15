@@ -6,7 +6,7 @@
   [![Twitter Badge](https://img.shields.io/twitter/follow/:jhefferson_za)](https://twitter.com/jhefferson_za)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jhefferson_za/?hl=pt-br)
 
-<h1> Hello, my name is Jhefferson_ZA, and welcome to my GitHub </h1>
+<h1> Hello, my name is Jhefferson, and welcome to my GitHub </h1>
 
 </div>
 
