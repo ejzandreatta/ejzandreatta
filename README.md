@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [<img src="welcome.png"/>](https://www.linkedin.com/in/jhefferson-z-andreatta-8ab67723a/)
+  [<img src="welcome_laranja.png"/>](https://www.linkedin.com/in/jhefferson-z-andreatta-8ab67723a/)
   
   <br>
 
