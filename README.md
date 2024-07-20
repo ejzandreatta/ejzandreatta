@@ -16,7 +16,7 @@
 
 <div align="justify">
   
-  Sou um empreendedor brasileiro, nascido e criado no Rio Grande do Sul, atuando atualmente no ramo da agricultura. A busca por reconhecimento e a determinação são princípios que guiam minha atuação em todas as áreas.
+  Sou um empreendedor brasileiro, nascido e criado no Rio Grande do Sul, atuando atualmente no ramo da agricultura. A busca por conhecimento e a determinação são princípios que guiam minha atuação em todas as áreas.
   
   Minha paixão por gestão e finanças me levou a buscar continuamente o aprimoramento e o conhecimento. Essa jornada, transcrita nos cursos listados abaixo, reflete meu comprometimento em oferecer o melhor em tudo o que faço, sempre buscando inovações e melhorias que agreguem valor ao meu trabalho.
   
