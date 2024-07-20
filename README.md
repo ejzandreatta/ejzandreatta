@@ -29,8 +29,6 @@
 * **Sistemas de Informação pela UFN**
 * **MBA em Value Investing com Luiz Barsi pela UniBTA**
 
-<br>
-
 <h2>Cursando:</h2>
 
 * **MBA em Planejamento Financeiro Pessoal e Familiar na Faculdade Galicia**
@@ -38,8 +36,6 @@
 * **Curso Código.py na Plataforma Varos**
 
 </div>
-
-<br>
 
 <div style="display: inline_block">
 
@@ -55,7 +51,7 @@
   <!-- <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" /> -->
 </div>
 
-<br><br>
+<br><br><br>
 
 <div align="center">
   <a href="https://github.com/ejzandreatta">
