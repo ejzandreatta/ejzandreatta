@@ -16,11 +16,11 @@
 
 <div align="justify">
   
-  Sou um empreendedor brasileiro, nascido e criado no Rio Grande do Sul, atuando atualmente no ramo da agricultura. A busca por conhecimento e a determinação são princípios que guiam minha atuação em todas as áreas.
+  Aqui você irá ver projetos básicos e avançados pois a busca por conhecimento e a determinação são princípios que guiam minha atuação em todas as áreas. Minha paixão por gestão e finanças me levou a buscar continuamente o aprimoramento e o conhecimento.
   
-  Minha paixão por gestão e finanças me levou a buscar continuamente o aprimoramento e o conhecimento. Essa jornada, transcrita nos cursos listados abaixo, reflete meu comprometimento em oferecer o melhor em tudo o que faço, sempre buscando inovações e melhorias que agreguem valor ao meu trabalho.
+  Essa jornada, transcrita nos cursos listados abaixo, reflete meu comprometimento em oferecer o melhor em tudo o que faço, sempre buscando inovações e melhorias que agreguem valor ao meu trabalho.
   
-  Estou sempre aberto a conectar com pessoas que compartilham dos mesmos valores e interesses. Se você valoriza determinação, honestidade e busca por reconhecimento, será um prazer trocar experiências e ideias!
+  Estou sempre aberto a me conectar com pessoas que compartilham dos mesmos valores e interesses. Se você valoriza determinação, honestidade e busca por conhecimento, será um prazer trocar experiências e ideias!
 
 <br>
 
