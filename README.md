@@ -3,20 +3,20 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jhefferson_za/?hl=pt-br)
 
 <div align="center">
-  
-  [<img src="welcome.png"/>](https://www.linkedin.com/in/jhefferson-z-andreatta-8ab67723a/)
-  
-  <br>
 
-  <h1> My name is Jhefferson Z. Andreatta, you are on my Github. </h1>
-  
+[<img src="welcome.png"/>](https://www.linkedin.com/in/jhefferson-z-andreatta-8ab67723a/)
+
+<br>
+
+<h1>My name is Jhefferson Z. Andreatta, you are on my Github.</h1>
+
 </div>
 
 <br>
 
 <div align="justify">
-  
-  Aqui você verá projetos básicos e avançados, pois a busca por conhecimento e a determinação são princípios que guiam minha atuação em todas as áreas. Minha paixão por gestão e finanças me levou a buscar continuamente o aprimoramento e o conhecimento.
+
+Aqui você verá projetos básicos e avançados, pois a busca por conhecimento e a determinação são princípios que guiam minha atuação em todas as áreas. Minha paixão por gestão e finanças me levou a buscar continuamente o aprimoramento e o conhecimento.
 
 Essa jornada, transcrita nos cursos listados abaixo, reflete meu comprometimento em oferecer o melhor em tudo o que faço, sempre buscando inovações e melhorias que agreguem valor ao meu trabalho.
 
@@ -39,25 +39,29 @@ Estou sempre aberto a me conectar com pessoas que compartilham dos mesmos valore
 
 <div style="display: inline_block">
 
-  <h2>Habilidades:</h2>
-  
-  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <!--<img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> -->
-  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
-  <!-- <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" /> -->
+<h2>Habilidades:</h2>
+<img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<!--<img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> -->
+<img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+<!-- <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" /> -->
 </div>
 
 <br><br><br>
 
 <div align="center">
-  <a href="https://github.com/ejzandreatta">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=ejzandreatta&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejzandreatta&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+
+<a href="https://github.com/ejzandreatta">
+
+<img height="145em" src="https://github-readme-stats.vercel.app/api?username=ejzandreatta&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+
+<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejzandreatta&theme=dracula&hide_border=false&&layout=compact"/>
+
+</a>
+
 </div>
 
 ---
