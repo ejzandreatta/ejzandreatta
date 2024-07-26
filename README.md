@@ -1,7 +1,10 @@
+<div align="right">
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/e-jhefferson-zardin-andreatta-8ab67723a/)](https://www.linkedin.com/in/e-jhefferson-zardin-andreatta-8ab67723a/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/:jhefferson_za)](https://twitter.com/jhefferson_za)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jhefferson_za/?hl=pt-br)
 
+</div>
 <div align="center">
 
 [<img src="welcome.png"/>](https://www.linkedin.com/in/jhefferson-z-andreatta-8ab67723a/)
