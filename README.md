@@ -62,7 +62,3 @@ Estou sempre aberto a me conectar com pessoas que compartilham dos mesmos valore
     <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejzandreatta&theme=dracula&hide_border=false&layout=compact" alt="Linguagens mais usadas"/>
   </a>
 </div>
-
----
-
-![Snake animation](https://github.com/ejzandreatta/ejzandreatta/blob/output/github-contribution-grid-snake.svg)
