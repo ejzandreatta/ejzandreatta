@@ -57,12 +57,10 @@ Estou sempre aberto a me conectar com pessoas que compartilham dos mesmos valore
 <br>
 
 <div align="center">
-
-<a href="https://github.com/ejzandreatta">
-<img height="145" src="https://github-readme-stats.vercel.app/api?username=ejzandreatta&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true" alt="Estatísticas do GitHub"/>
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejzandreatta&theme=dracula&hide_border=false&layout=compact" alt="Linguagens mais usadas"/>
-</a>
-
+  <a href="https://github.com/ejzandreatta">
+    <img height="145" src="https://github-readme-stats.vercel.app/api?username=ejzandreatta&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true" alt="Estatísticas do GitHub"/>
+    <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejzandreatta&theme=dracula&hide_border=false&layout=compact" alt="Linguagens mais usadas"/>
+  </a>
 </div>
 
 ---
